@@ -1,4 +1,4 @@
-import "tfplan"
+import "tfplan/v2"
 import "strings"
 
 main = rule {
